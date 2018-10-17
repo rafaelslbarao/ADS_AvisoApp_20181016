@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ADS_AvisoApp</string>
+    <string name="autor">Autor</string>
+    <string name="mensagem">Mensagem</string>
+    <string name="Salvar">Salvar</string>
+    <string name="mensagens">Mensagens</string>
+</resources>
