@@ -24,4 +24,10 @@ public class DataMensagem
     {
         this.autor = autor;
     }
+
+    @Override
+    public String toString()
+    {
+        return autor.getIv() + " - " + mensagem.getIv();
+    }
 }
